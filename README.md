@@ -26,7 +26,7 @@
 ```bash
 git clone https://github.com/rajveersingh2626/Aegis
 cd aegis
-
+```
 
 # IMPORTANT
 Also make a .aegisconfig file in the following directory with certain details in the root directory once you clone/download the project
@@ -39,4 +39,5 @@ DATABASE = aegis_db
 
 [SECURITY]
 ENCRYPTION_KEY = DWw4aC3k7hGoFnC5huSMJVSOwMPtphy03Lw_WKRiAbA=
+
 
