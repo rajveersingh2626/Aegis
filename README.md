@@ -24,5 +24,6 @@
 ### 1. Get the Code
 
 ```bash
-git clone [YOUR_GITHUB_REPO_URL]
+git clone https://github.com/rajveersingh2626/Aegis
 cd aegis
+
